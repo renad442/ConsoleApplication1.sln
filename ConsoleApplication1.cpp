@@ -1,3 +1,11 @@
+/*
+* Author: Renad ibrahem
+* Contact: ibrahemrenad00@gmail.com
+* Program name: ConsoleApplication1.cpp
+* last modification date: 25 mar 2022
+* program description: asking the user of what kind of haircut to get
+*/
+
 #include <iostream>
 #include <string>
 
